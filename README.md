@@ -1,0 +1,1 @@
+# auto-plugin-gem-canary-release
