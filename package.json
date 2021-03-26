@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/angeliski/auto-plugin-gem-canary-release#readme",
   "dependencies": {
-    "@auto-it/core": "^10.22.1"
+    "@auto-it/core": "^10.22.1",
+    "fast-glob": "^3.2.5"
   }
 }
